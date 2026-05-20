@@ -1,6 +1,6 @@
 # 🛩️ 1942: El Clásico de Capcom
 
-Bienvenidos al resumen definitivo de **1942**, el juego que definió los cimientos de los shooters de scroll vertical. Lanzado por Capcom en 1984, este título nos transporta a las batallas aéreas más intensas del Pacífico.
+Bienvenidos al resumen definitivo de **1942**, el juego que definió los cimientos de los shooters de scroll vertical. Lanzado por Capcom en 1984, este título nos transporta a las batallas aéreas más intensas del Pacífico. 
 
 ---
 
@@ -54,6 +54,7 @@ graph TD
 
 > [!IMPORTANT]
 > **1942** fue el primer juego de Capcom en ser portado a una consola casera (la NES), lo que ayudó a cimentar la fama mundial de la compañía.
+
 
 *   **Puntuación por Derribos**: Al final de cada nivel, se te evalúa con un porcentaje. Si no alcanzas un mínimo, ¡perderás jugosas bonificaciones!
 *   **Música de Marcha**: La banda sonora utiliza un efecto de "tam-tam" militar que es reconocido instantáneamente por cualquier veterano de los arcades.
