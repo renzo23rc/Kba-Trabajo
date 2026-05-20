@@ -2,10 +2,6 @@
 
 Bienvenidos al resumen definitivo de **1942**, el juego que definió los cimientos de los shooters de scroll vertical. Lanzado por Capcom en 1984, este título nos transporta a las batallas aéreas más intensas del Pacífico.
 
-<p align="center">
-  <img width="232" height="500" alt="image" src="https://github.com/user-attachments/assets/b3a324f7-c68f-4132-a48a-acc46de5b475" />
-</p>
-
 ---
 
 ## 📊 Ficha Técnica
