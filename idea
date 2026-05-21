@@ -1,0 +1,36 @@
+1942 arcade
+Idea General del Juego
+Un shooter de scroll vertical visto desde arriba donde el jugador controla el avión P-38 Lightning. El objetivo es destruir las oleadas de aviones enemigos, esquivar sus disparos y completar las etapas de forma regresiva hasta llegar a Tokio.
+
+Estructura de los 32 Niveles
+El juego original tiene 32 niveles que van en cuenta regresiva (del 32 al 1). El escenario de fondo es continuo (mar e islas), pero la campaña se divide en 4 zonas geográficas de 8 niveles cada una, donde la dificultad aumenta en cada cambio de locación:
+
+Etapas 32 a 25: Batalla de Midway
+
+Dificultad: Baja. Los enemigos son pocos, se mueven lento y disparan una cantidad mínima de proyectiles.
+
+Etapas 24 a 17: Islas Salomón
+
+Dificultad: Media-baja. Aparecen los primeros aviones medianos que requieren múltiples impactos para ser destruidos y los enemigos comunes disparan con más frecuencia.
+
+Etapas 16 a 9: Mar de Filipinas
+
+Dificultad: Media-alta. La velocidad general del juego aumenta. Se introducen formaciones enemigas que entran desde la parte inferior de la pantalla para realizar emboscadas por la retaguardia.
+
+Etapas 8 a 1: Objetivo Tokio
+
+Dificultad: Alta. Máxima densidad de aviones y balas simultáneas en pantalla. En la etapa 1 se incluye un gran bombardero como jefe final antes de terminar el juego.
+
+
+Dinámica de una Partida (El Flujo del Nivel)
+Cada nivel repite la misma secuencia de juego:
+
+Despegue: El avión del jugador sale de la pista de un portaaviones aliado para iniciar la etapa.
+
+Combate: Movimiento libre en 8 direcciones por la pantalla para esquivar proyectiles y atacar con el disparo estándar.
+
+Aviones Rojos y POW: Al destruir una formación completa de aviones enemigos de color rojo, cae un ítem "POW". Capturarlo otorga una ventaja temporal, como disparo triple o dos aviones escolta a los costados.
+
+Rizo Evasivo (Loop): Un botón secundario permite realizar un giro de 360 grados en el aire, otorgando invulnerabilidad temporal frente a las balas. El número de usos está limitado por nivel.
+
+Aterrizaje: Al completar el trayecto, el avión aterriza en otro portaaviones. Se muestra una pantalla con el porcentaje de derribos y los puntos de bonificación obtenidos antes de pasar al siguiente nivel.
