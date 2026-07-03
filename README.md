@@ -59,6 +59,54 @@ graph TD
 *   **Puntuación por Derribos**: Al final de cada nivel, se te evalúa con un porcentaje. Si no alcanzas un mínimo, ¡perderás jugosas bonificaciones!
 *   **Música de Marcha**: La banda sonora utiliza un efecto de "tam-tam" militar que es reconocido instantáneamente por cualquier veterano de los arcades.
 
+
+---
+
+## 🖼️ Galería de Sprites
+
+A continuación se muestran los sprites y assets disponibles para el proyecto, extraídos de las hojas de referencia oficiales de *1942*.
+
+### Avión del Jugador — Lockheed P-38 Lightning
+
+| Frame 1 | Frame 2 | Frame 3 | Frame 4 |
+|:-------:|:-------:|:-------:|:-------:|
+| <img src="player_plane_1.png" width="48"><br>Avión centro | <img src="player_plane_2.png" width="48"><br>Avión centro 2 | <img src="player_plane_3.png" width="48"><br>Avión centro 3 | <img src="player_plane_4.png" width="48"><br>Avión centro 4 |
+
+| Inclinado izquierda | Inclinado derecha | Rizo (loop) | Despegue / Aterrizaje |
+|:-------------------:|:-----------------:|:-----------:|:---------------------:|
+| <img src="player_plane_left.png" width="48"><br>Izquierda | <img src="player_plane_right.png" width="48"><br>Derecha | <img src="player_roll_1.png" width="48"><br>Roll | <img src="player_takeoff_1.png" width="48"><br>Despegue |
+
+| Explosión del jugador |
+|:---------------------:|
+| <img src="player_explosion_1.png" width="48"><br>Explosión |
+
+### Escolta y Proyectiles
+
+| Avión escolta | Bala del jugador |
+|:-------------:|:----------------:|
+| <img src="player_escort_flying.png" width="48"><br>Escolta | <img src="player_bullet.png" width="24"><br>Bala |
+
+### Enemigos
+
+| Tipo 1 | Tipo 2 | Tipo 3 | Tipo 4 |
+|:------:|:------:|:------:|:------:|
+| <img src="enemy_plane_1.png" width="48"><br>Enemigo 1 | <img src="enemy_plane_2.png" width="48"><br>Enemigo 2 | <img src="enemy_plane_3.png" width="48"><br>Enemigo 3 | <img src="enemy_plane_4.png" width="48"><br>Enemigo 4 |
+
+| Kurogane Kai | Akotzu | Bud | Shoryu |
+|:------------:|:------:|:---:|:------:|
+| <img src="enemy_kurogane_kai.png" width="48"><br>Kurogane Kai | <img src="enemy_akotzu.png" width="48"><br>Akotzu | <img src="enemy_bud.png" width="48"><br>Bud | <img src="enemy_shoryu.png" width="48"><br>Shoryu |
+
+| Raizan | Fukusuke / Yosuke | Qing | Daihiryu |
+|:------:|:-----------------:|:----:|:--------:|
+| <img src="enemy_raizan.png" width="48"><br>Raizan | <img src="enemy_fukusuke.png" width="48"><br>Fukusuke | <img src="enemy_qing.png" width="48"><br>Qing | <img src="enemy_daihiryu.png" width="80"><br>Daihiryu |
+
+### Jefes y Power-ups
+
+| Jefe Ayako | Explosión enemiga | Power-up POW |
+|:----------:|:-----------------:|:------------:|
+| <img src="boss_ayako.png" width="120"><br>Ayako | <img src="explosion_enemy_1.png" width="48"><br>Explosión enemiga | <img src="powerup_pow.png" width="48"><br>POW |
+
+
 ---
 
 > [!TIP]
